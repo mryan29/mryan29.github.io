@@ -239,21 +239,22 @@
 
       <!-- Skills -->
       <div class="row skill">
-        	 <div class="three columns header-col">
-		 		<h1><span>Languages</span></h1>
-        	 </div>
-	
-			<br>
-			<p>-</p>
 
-			<div class="nine columns main-col">
-				<div class="row item">
-					<div class="twelve columns">
-						<h3><span>C++<br>C<br>Javascript<br>Python<br>Bourne Shell<br>HTML/CSS<br>ARM</span></h3>
-						
-					</div>
-				</div>
+         <div class="three columns header-col">
+		 	<h1><span>Languages</span></h1>
+         </div>
+	
+		<br>
+		<p>-</p>
+
+        <!-- <div class="nine columns main-col"> -->
+		<div class="row item">
+			<div class="twelve columns">
+				<!--<h3><span>C++<br>C<br>Javascript<br>Python<br>Bourne Shell</span></h3>-->
+				<h3>C++</h3>
+				<h3>C</h3>
 			</div>
+		</div>
             
 
 		
@@ -268,7 +269,7 @@
 		</ul>
 -->
 
-		<!-- </div> <!-- main-col end --> -->
+		</div> <!-- main-col end -->
 
       </div> <!-- End skills -->
 

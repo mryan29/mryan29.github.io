@@ -1,2 +1,2 @@
-# mryan29.github.io
-Personal Website
+# mryan1996.github.io
+My Website
